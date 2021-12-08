@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+footer {
+  display:flex; 
+  flex-direction:column;
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  flex-basis: auto;
+ 
+  bottom: 0;
+  color: white;
+}
+
+.header {
+  padding: 60px;
+  
+  text-align: center;
+  background: DarkSalmon;
+  color: white;
+  font-size: 30px;
+}
+form {
+  padding: 60px;
+  margin-top: 20px;
+  
+}
